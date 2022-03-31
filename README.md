@@ -1,3 +1,4 @@
 # MyBarber Application
 
-This application was developed in order to give the ability to connect barbers and customers in a fun and easy way. The new customers register to the app so they can search their favorite barber shop depending the location and ratings.
+This Application was developed in order to give the ability to connect barber shops and customers in a fun and easy way.
+Users register to the app to find their favorite barber shop based on location and rating while being able to book appointmets through the app. 
